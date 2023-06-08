@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: navy;
+    text-align: center;
+    color: white;
+}
+.navbar .menu a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.about h1{
+     text-align: center;
+}
+.about img{
+    height: 200px;
+}
+.section h1{
+    text-align: center;
+}
+
